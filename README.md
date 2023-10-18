@@ -10,7 +10,7 @@ step1:Save the HTML file with .html extension.
 
 step2:Click the "Go Live" button.A new browser window will open, displaying EyeBall moving.
 
-You can also access and run the program [here](https://prakashkumarmca23.github.io/hanoi-tower/).
+You can also access and run the program [here](https://prakashkumarmca23.github.io/eyeball/).
 
 
 ## Future Enhancement:
